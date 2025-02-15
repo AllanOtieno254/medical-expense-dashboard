@@ -1,0 +1,10 @@
+medical-cost-dashboard/
+│── data/                     # Raw and processed data files
+│── docs/                     # Documentation and reports
+│── images/                   # Screenshots of the dashboard
+│── src/                      # Power BI project files
+│── README.md                 # Detailed project documentation
+│── LICENSE                   # Open-source license file
+│── requirements.txt           # Dependencies (if applicable)
+│── .gitignore                 # Git ignore file
+
